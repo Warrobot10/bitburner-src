@@ -224,7 +224,10 @@ export const CONSTANTS: {
 ### NOTES
 (Corporation) Bugfixes in Corporation may cause a large balance shift for this mechanic.
 
-### API CHANGES:
+### HOTFIXES
+- 10/4/23: Fixed an issue that caused popups (like faction invitations) to still appear during infiltration (@Snarling)
+
+### API CHANGES
 - ns.print and ns.tprint now handle printing Set and Map objects directly (@ficocelliguy)
 - ns.spawn can now use a configurable delay instead of always 10 seconds (@muesli4brekkies)
 - (Corporation) Added CorporationDivisions property to BitNodeMultipliers interface (@Caldwell-74)
