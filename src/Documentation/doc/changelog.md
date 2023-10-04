@@ -8,7 +8,8 @@
 
 ### HOTFIXES
 
-- 10/4/23: Fixed an issue that caused popups (like faction invitations) to still appear during infiltration (@Snarling)
+- 10/4/23: Fix possible issue with popups interfering with infiltration (@Snarling)
+- 10/4/23: Fixed an issue that caused invitation dialogs for factions that have already been joined (@Snarling)
 
 ### API CHANGES:
 
